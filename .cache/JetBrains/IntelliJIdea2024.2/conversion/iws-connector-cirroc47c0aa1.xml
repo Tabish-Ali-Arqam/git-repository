@@ -1,0 +1,17 @@
+<conversion>
+  <applied-converters>
+    <converter id="kotlin-non-jvm-source-roots" />
+    <converter id="DockerRunConfigurationConverterProvider" />
+  </applied-converters>
+  <project-files>
+    <f p="./.idea/vcs.xml" t="1719298322" />
+    <f p="./.idea/misc.xml" t="1719296461" />
+    <f p="./.idea/gradle.xml" t="1719593905" />
+    <f p="./.idea/workspace.xml" t="1731311809" />
+    <f p="./.idea/compiler.xml" t="1727791392" />
+    <f p="./.idea/jarRepositories.xml" t="1719298322" />
+    <f p="./.idea/uiDesigner.xml" t="1719312143" />
+    <f p="./.idea/scala_compiler.xml" t="1723448189" />
+    <f p="./.idea/modules.xml" t="1731063342" />
+  </project-files>
+</conversion>
